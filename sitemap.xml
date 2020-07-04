@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ike-cloud.github.io/posts/</loc>
+    <lastmod>2020-07-04T15:46:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ike-cloud.github.io/</loc>
+    <lastmod>2020-07-04T15:46:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ike-cloud.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-07-04T15:46:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ike-cloud.github.io/posts/kaibodaji/</loc>
     <lastmod>2020-07-03T21:56:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-07-03T21:56:07+08:00</lastmod>
+    <loc>https://ike-cloud.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/kaibodaji/</loc>
-    <lastmod>2020-07-03T21:56:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ike-cloud.github.io/tags/</loc>
   </url>
   
 </urlset>
